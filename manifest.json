@@ -1,0 +1,12 @@
+{
+  "name": "traefik-http-cache-plugin",
+  "displayName": "HTTP Cache Plugin",
+  "description": "Adds HTTP caching via Redis to Traefik",
+  "author": "dairlair",
+  "homepage": "https://github.com/dairlair/traefik-http-cache-plugin",
+  "source": {
+    "type": "git",
+    "url": "https://github.com/dairlair/traefik-http-cache-plugin"
+  },
+  "license": "MIT"
+}
